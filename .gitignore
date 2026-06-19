@@ -1,0 +1,15 @@
+# Colcon
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# ROS
+*.bag
+*.db3
