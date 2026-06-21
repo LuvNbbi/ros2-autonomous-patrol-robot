@@ -2,6 +2,10 @@
 
 ROS2, Nav2, SLAM Toolbox, ESP32를 활용하여 제작한 실내 자율주행 로봇 프로젝트입니다.
 
+## Patrol
+
+https://github.com/user-attachments/assets/ef422328-2e9d-43cf-b42f-a8a5032f7f9c
+
 ## Features
 
 - URDF 기반 로봇 모델링
@@ -31,10 +35,6 @@ SLAM을 통해 지도를 생성.
 - Python
 - ESP32
 - LiDAR
-
-## Patrol
-
-https://github.com/user-attachments/assets/ef422328-2e9d-43cf-b42f-a8a5032f7f9c
 
 ## explore
 
