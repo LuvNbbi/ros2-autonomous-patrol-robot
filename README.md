@@ -30,16 +30,6 @@ SLAM Toolbox를 통해 지도를 생성합니다.
 - Python
 - ESP32
 - LiDAR
-  
-## My Contributions
-
-- URDF 작성 및 TF 트리 구성
-- ESP32와 ROS2 통신 구현
-- LiDAR 데이터 수집 및 /scan 토픽 연동
-- SLAM 환경 구축 및 맵 생성
-- Nav2 설정 및 자율주행 튜닝
-- Waypoint Patrol 기능 구현
-- Explore Lite 기반 자동 탐사 기능 구현
 
 ## Patrol
 
