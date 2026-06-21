@@ -29,6 +29,8 @@ setup(
             'robot_telemetry_publisher = myrosbot_one.robot_telemetry_publisher:main',
             'lidar_publisher = myrosbot_one.lidar_publisher:main',
             'teleop_twist_keyboard = myrosbot_one.teleop_twist_keyboard:main',
+            'robot_patrol_waypoints = myrosbot_one.robot_patrol_waypoints:main',
+            'mjpeg_camera_publisher = myrosbot_one.mjpeg_camera_publisher:main'
         ],
     },
 )
